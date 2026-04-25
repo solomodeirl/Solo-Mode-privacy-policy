@@ -1,0 +1,1 @@
+# Solo-Mode-privacy-policy
