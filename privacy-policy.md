@@ -253,7 +253,6 @@ For significant changes, we will provide a more prominent notice (such as a noti
 If you have any questions about this Privacy Policy, you can contact us:
 
 - **By email:** contact.solomode.irl@gmail.com
-- **By visiting this page:** [https://github.com/YOUR_USERNAME/solo-mode-privacy](https://github.com/YOUR_USERNAME/solo-mode-privacy)
 
 ---
 
