@@ -187,7 +187,7 @@ If we need to rely on consent as a legal basis for processing your information a
 
 ## In-App Purchases and Subscriptions
 
-Solo Mode offers optional premium features through in-app subscriptions ("Hunter License"). All purchases are processed through the Google Play Store or Apple App Store. We do not directly collect or store your payment information (credit card numbers, billing addresses, etc.).
+Solo Mode offers optional premium features through in-app subscriptions ("Hero License"). All purchases are processed through the Google Play Store or Apple App Store. We do not directly collect or store your payment information (credit card numbers, billing addresses, etc.).
 
 - **Subscription management:** You can manage or cancel your subscription through the Google Play Store or Apple App Store settings.
 - **Refunds:** Refund requests are handled by the respective app store according to their refund policies.
